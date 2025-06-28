@@ -24,8 +24,7 @@ This repository contains all scripts, datasets, and evaluation results used in o
 - Python ≥ 3.10
 - Pandas, requests, matplotlib
 - [ESBMC-Solidity](https://github.com/esbmc/esbmc)
-- API keys for OpenAI, Anthropic, or Grok (if applicable)
-
+- API keys for LLMs
 ## 📜 License
 
 MIT License
