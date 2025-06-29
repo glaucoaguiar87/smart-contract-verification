@@ -34,4 +34,3 @@ MIT License
 
 - Glauco Aguiar (UFAM)
 - Maria Lima (UFAM)
-- Matheus Catão (UFAM)
