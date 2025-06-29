@@ -24,6 +24,7 @@ This repository contains all scripts, datasets, and evaluation results used in o
 - Python ≥ 3.10
 - Pandas, requests, matplotlib
 - [ESBMC-Solidity](https://github.com/esbmc/esbmc)
+- [ScrowID](https://github.com/sujeetc/ScrawlD)
 - API keys for LLMs
 ## 📜 License
 
